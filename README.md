@@ -9,3 +9,8 @@ A filtration strategy for movie recommendation systems, which uses the data prov
 I have also used APIs to fetch the posters of the movies getting recommended and later deployed whole product on heroku site mentioned down below.
 
 ### Product Deployed: [Heroku](https://prashver-movie-recommender.herokuapp.com/)
+
+### Demo :-
+
+https://user-images.githubusercontent.com/84378440/205221255-e82e4aa5-5c56-4827-9e13-e0dc34ad0371.mp4
+
