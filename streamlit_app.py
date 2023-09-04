@@ -63,7 +63,7 @@ similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 movies = pd.DataFrame(movies_dict)
 
-new_header = '<p style="font-family:Verdana; color:LightGreen; font-size: 42px;">Movie Recommender System 📽️</p>'
+new_header = '<p style="font-color:#8437cc; font-size: 42px;">📽️ 𝓒𝓲𝓷𝓮-𝓢𝓾𝓰𝓰𝓮𝓼𝓽 📽️</p>'
 st.markdown(new_header, unsafe_allow_html=True)
 
 selected_movie_name = st.selectbox('Enter Movie name to get recommendations :-', movies['title'].values)
