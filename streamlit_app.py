@@ -168,9 +168,9 @@ if st.button('Show Recommendations'):
                     f'<div style="background-color: #122b52; padding: 10px; border-radius: 10px;">'
                     f'<span style="color:#69dbcc;">{overview[i]}</span>'
                     f'<br><br>'  # Add a line break for spacing
-                    f'<span style="color:#5c9965;"><strong>Status: </strong></span> {status[i]}'
+                    f'<span style="color:#098731;"><strong>Status: </strong></span> {status[i]}'
                     f'<br>'
-                    f'<span style="color:#5c9965;"><strong>Release Date:</strong></span> {release_date[i]}'
+                    f'<span style="color:#098731;"><strong>Release Date:</strong></span> {release_date[i]}'
                     f'<br>'
                     f'<span style="color:#098731;"><strong>Runtime:</strong>:</span> {runtime[i]} minutes'
                     f'<br>'
