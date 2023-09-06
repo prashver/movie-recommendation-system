@@ -1,5 +1,3 @@
-
-https://github.com/prashver/Movie-Recommendation-System/assets/84378440/90fc382c-e802-45d3-8ca0-b9101a78bdde
 # Movie-Recommendation-System
 
 Movie recommendation systems use a set of different filtration strategies and algorithms to help users find the most relevant films. The most popular categories of the ML algorithms used for movie recommendations include content-based filtering and collaborative filtering systems.
