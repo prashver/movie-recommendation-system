@@ -1,3 +1,5 @@
+
+https://github.com/prashver/Movie-Recommendation-System/assets/84378440/90fc382c-e802-45d3-8ca0-b9101a78bdde
 # Movie-Recommendation-System
 
 Movie recommendation systems use a set of different filtration strategies and algorithms to help users find the most relevant films. The most popular categories of the ML algorithms used for movie recommendations include content-based filtering and collaborative filtering systems.
@@ -8,9 +10,8 @@ A filtration strategy for movie recommendation systems, which uses the data prov
 
 I have also used APIs to fetch the posters of the movies getting recommended and later deployed whole product on heroku site mentioned down below.
 
-### Product Deployed: [Streamlit](https://movie-recommendation-system-exwccp2bret3fn75upkfg9.streamlit.app/)
+### Product Deployed: [Movies Recommender](https://movie-recommendation-system-exwccp2bret3fn75upkfg9.streamlit.app/)
 
 ### Demo :-
 
-https://user-images.githubusercontent.com/84378440/205221255-e82e4aa5-5c56-4827-9e13-e0dc34ad0371.mp4
-
+https://github.com/prashver/Movie-Recommendation-System/assets/84378440/461ed647-7866-4a87-8448-6af6cd5524a6
