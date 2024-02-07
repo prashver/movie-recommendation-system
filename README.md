@@ -8,7 +8,7 @@ A filtration strategy for movie recommendation systems, which uses the data prov
 
 I have also used APIs to fetch the posters of the movies getting recommended and later deployed whole product on heroku site mentioned down below.
 
-### Product Deployed: [Movies Recommender](https://movie-recommendation-system-exwccp2bret3fn75upkfg9.streamlit.app/)
+### End-to-End Deployment : [Movies Recommender](https://prashver-movie-recommender.streamlit.app/)
 
 ### Demo :-
 
